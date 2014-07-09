@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.9)  10 JUL 2014 01:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.9)  10 JUL 2014 01:45
 entering extended mode
 **I:/РїСЂР°РєС‚РёРєР°/Latex/latex/latex.tex
 (I:/РїСЂР°РєС‚РёРєР°/Latex/latex/latex.tex
@@ -652,36 +652,52 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 16.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [1
+)
+Underfull \hbox (badness 1490) in paragraph at lines 21--22
+\T2A/cmr/m/n/10 наиболее вы-да-ю-ще-е-ся стро-и-тель-ство. По-это-му,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+\T2A/cmr/m/n/10 словах от-ки-ну-лась в крес-ле и с улыб-кой
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 21--22
+\T2A/cmr/m/n/10 произнесла: "А кто же по-вашему со-тво-рил
+ []
+
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
  [2] [3] [4]
 [5] [6] (I:\РїСЂР°РєС‚РёРєР°\Latex\latex\latex.aux) ) 
 Here is how much of TeX's memory you used:
- 2958 strings out of 493921
- 34482 string characters out of 3144868
+ 2965 strings out of 493921
+ 34582 string characters out of 3144868
  105679 words of memory out of 3000000
- 6208 multiletter control sequences out of 15000+200000
- 14838 words of font info for 44 fonts, out of 3000000 for 9000
+ 6214 multiletter control sequences out of 15000+200000
+ 16732 words of font info for 50 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,4n,26p,3083b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\MARISHKA\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\MARI
-SHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:
-\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\dpi600
-\larm1095.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
--t2a\dpi600\labx1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb>
-Output written on latex.pdf (6 pages, 98403 bytes).
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\dpi600\larm1095.pk> <C:\User
+s\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.p
+k> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600
+\labx1440.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
+-t2a\dpi600\larm1000.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\l
+jfour\lh\lh-t2a\dpi600\labx1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb>
+Output written on latex.pdf (6 pages, 113618 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
+ 285 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

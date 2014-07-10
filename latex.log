@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.9)  11 JUL 2014 00:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.9)  11 JUL 2014 00:54
 entering extended mode
 **I:/РїСЂР°РєС‚РёРєР°/Latex/latex/latex.tex
 (I:/РїСЂР°РєС‚РёРєР°/Latex/latex/latex.tex
@@ -846,6 +846,12 @@ Underfull \hbox (badness 1248) in paragraph at lines 37--38
 -го, чем мы со-би-ра-ем-ся управ-лять,
  []
 
+
+Overfull \hbox (2.70253pt too wide) in paragraph at lines 40--41
+[]\T2A/cmr/m/n/10 Как го-во-рит Брукс, "слож-ность про-грамм-но-го обес-пе-че-н
+ия - от-нюдь не слу-чай-ное его свойство"[[]].
+ []
+
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -1170,9 +1176,13 @@ Underfull \hbox (badness 1406) in paragraph at lines 67--68
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 70--71
-[]\T2A/cmr/m/n/10 "Чем слож-нее си-сте-ма, тем лег-че ее пол-но-стью раз-ва-лит
-ь"[5]. Стро-и-тель ед-ва ли
+LaTeX Warning: Citation `The Peter Pyramid' on page 3 undefined on input line 7
+0.
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 70--71
+[]\T2A/cmr/m/n/10 "Чем слож-нее си-сте-ма, тем лег-че ее пол-но-стью развалить"
+[[]]. Стро-и-тель ед-ва ли
  []
 
 
@@ -1535,26 +1545,30 @@ Overfull \hbox (26.53996pt too wide) in paragraph at lines 105--106
 ут-ри ком-по-нен-тов от "низ-ко-ча-стот-ной"динамики
  []
 
-[5] [6] (I:\РїСЂР°РєС‚РёРєР°\Latex\latex\latex.aux) ) 
+[5] [6] (I:\РїСЂР°РєС‚РёРєР°\Latex\latex\latex.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2981 strings out of 493921
- 34888 string characters out of 3144868
- 95714 words of memory out of 3000000
- 6222 multiletter control sequences out of 15000+200000
- 17090 words of font info for 54 fonts, out of 3000000 for 9000
+ 2995 strings out of 493921
+ 35047 string characters out of 3144868
+ 95760 words of memory out of 3000000
+ 6235 multiletter control sequences out of 15000+200000
+ 17907 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,26p,3292b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\MARISHKA\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users\MARI
-SHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:
-\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1
-440.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
-pi600\larm0900.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-lh\lh-t2a\dpi600\labx1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on latex.pdf (6 pages, 112238 bytes).
+ 27i,4n,26p,3292b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600
+\labx1000.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
+-t2a\dpi600\larm1000.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\l
+jfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9
+\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\MARISHKA\AppData\Local
+\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0900.pk> <C:\Users\MARISHKA\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on latex.pdf (6 pages, 113020 bytes).
 PDF statistics:
- 285 PDF objects out of 1000 (max. 8388607)
+ 290 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

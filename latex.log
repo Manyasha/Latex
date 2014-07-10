@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.9)  10 JUL 2014 02:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.9)  10 JUL 2014 23:58
 entering extended mode
 **I:/РїСЂР°РєС‚РёРєР°/Latex/latex/latex.tex
 (I:/РїСЂР°РєС‚РёРєР°/Latex/latex/latex.tex
@@ -614,20 +614,20 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \JustifyingParindent=\skip59
 )
 (I:\РїСЂР°РєС‚РёРєР°\Latex\latex\latex.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -664,188 +664,176 @@ LaTeX Font Info:    ... okay on input line 17.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 17.
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+LaTeX Info: Redefining \selectfont on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 19.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 20.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 1371) in paragraph at lines 24--25
+Underfull \hbox (badness 1371) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 сказано, что Бог со-тво-рил Еву из реб-ра Ада-ма.
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 24--25
+Underfull \hbox (badness 6332) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 Такая опе-ра-ция мо-жет быть про-ве-де-на толь-ко
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 24--25
+Underfull \hbox (badness 1320) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 хирургом, по-это-му я по пра-ву мо-гу утвер-ждать,
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 24--25
+Underfull \hbox (badness 1270) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 что моя про-фес-сия са-мая древ-няя в ми-ре". Тут
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 24--25
+Underfull \hbox (badness 2351) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 небо и зем-лю. Это бы-ло пер-вое и, несо-мнен-но,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 наиболее вы-да-ю-ще-е-ся стро-и-тель-ство. По-это-му,
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 24--25
+Underfull \hbox (badness 4543) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 дорогой док-тор, вы не пра-вы. Моя про-фес-сия
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 словах от-ки-ну-лась в крес-ле и с улыб-кой
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 \T2A/cmr/m/n/9 произнесла: "А кто же по-вашему со-тво-рил
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 30--31
-[]\T2A/cmr/m/n/10 Звезда в пред-две-рии кол-лап-са; ре-бе-нок, ко-то-рый учит-с
-я чи-тать; клет-ки кро-ви, ата-ку-ю-щие
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 \T2A/cmr/m/n/10 вирус, - это толь-ко неко-то-рые из по-тря-са-ю-ще слож-ных объ
 -ек-тов фи-зи-че-ско-го ми-ра.
  []
 
 
-Underfull \hbox (badness 3449) in paragraph at lines 30--31
+Underfull \hbox (badness 3449) in paragraph at lines 31--32
 \T2A/cmr/m/n/10 Компьютерные про-грам-мы то-же бы-ва-ют слож-ны-ми, од-на-ко их
  слож-ность со-вер-шен-но дру-го-го
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 \T2A/cmr/m/n/10 рода. Брукс пи-шет: "Эйн-штейн утвер-ждал, что долж-ны су-ще-ст
 во-вать про-стые объ-яс-не-ния
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 32--33
+Underfull \hbox (badness 1142) in paragraph at lines 33--34
 []\T2A/cmr/m/n/10 Мы зна-ем, что не все про-грамм-ные си-сте-мы слож-ны. Су-ще-
 ству-ет мно-же-ство про-грамм,
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 32--33
+Underfull \hbox (badness 6461) in paragraph at lines 33--34
 \T2A/cmr/m/n/10 которые за-ду-мы-ва-ют-ся, раз-ра-ба-ты-ва-ют-ся, со-про-вож-да
 -ют-ся и ис-поль-зу-ют-ся од-ним и тем же
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 32--33
+Underfull \hbox (badness 1888) in paragraph at lines 33--34
 \T2A/cmr/m/n/10 человеком. Обыч-но это на-чи-на-ю-щий про-грам-мист или про-фес
 -си-о-нал, ра-бо-та-ю-щий изо-ли-ро-ван-но.
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 32--33
+Underfull \hbox (badness 3148) in paragraph at lines 33--34
 \T2A/cmr/m/n/10 Мы не хо-тим ска-зать, что все та-кие си-сте-мы пло-хо сде-ла-н
 ы или, тем бо-лее, усо-мнить-ся в
  []
 
 
-Underfull \hbox (badness 1755) in paragraph at lines 32--33
+Underfull \hbox (badness 1755) in paragraph at lines 33--34
 \T2A/cmr/m/n/10 использовать, пе-ре-де-лы-вать или рас-ши-рять. Раз-ра-бот-ка п
 о-доб-ных про-грамм ско-рее уто-ми-тель-на,
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 34--35
-[]\T2A/cmr/m/n/10 Нас ин-те-ре-су-ет раз-ра-бот-ка то-го, что мы бу-дем на-зы-в
-ать про-мыш-лен-ны-ми про-грамм-ны-ми
- []
-
-
-Underfull \hbox (badness 2452) in paragraph at lines 34--35
+Underfull \hbox (badness 2452) in paragraph at lines 35--36
 \T2A/cmr/m/n/10 которых ре-сур-сы вре-ме-ни и па-мя-ти огра-ни-че-ны; за-да-чи 
 под-дер-жа-ния це-лост-но-сти ин-фор-ма-ции
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 34--35
+Underfull \hbox (badness 1184) in paragraph at lines 35--36
 \T2A/cmr/m/n/10 объемом в сот-ни ты-сяч за-пи-сей при па-рал-лель-ном до-сту-пе
  к ней с об-нов-ле-ни-я-ми и за-про-са-ми;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 \T2A/cmr/m/n/10 системы управ-ле-ния и кон-тро-ля за ре-аль-ны-ми про-цес-са-ми
  (на-при-мер, дис-пет-че-ри-за-ция
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 34--35
+Underfull \hbox (badness 1147) in paragraph at lines 35--36
 \T2A/cmr/m/n/10 воздушного или же-лез-но-до-рож-но-го транс-пор-та). Си-сте-мы 
 по-доб-но-го ти-па обыч-но име-ют боль-шое
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 34--35
+Underfull \hbox (badness 3746) in paragraph at lines 35--36
 \T2A/cmr/m/n/10 функционирования. В ми-ре про-мыш-лен-ных про-грамм мы так-же в
 стре-ча-ем сре-ды раз-ра-бот-ки,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 \T2A/cmr/m/n/10 которые упро-ща-ют со-зда-ние при-ло-же-ний в кон-крет-ных об-л
 а-стях, и про-грам-мы, ко-то-рые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 1924) in paragraph at lines 37--38
 []\T2A/cmr/m/n/10 Существенная чер-та про-мыш-лен-ной про-грам-мы - уро-вень сл
 ож-но-сти: один раз-ра-бот-чик
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 36--37
+Underfull \hbox (badness 4518) in paragraph at lines 37--38
 \T2A/cmr/m/n/10 практически не в со-сто-я-нии охва-тить все ас-пек-ты та-кой си
 -сте-мы. Гру-бо го-во-ря, слож-ность
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 36--37
+Underfull \hbox (badness 1297) in paragraph at lines 37--38
 \T2A/cmr/m/n/10 промышленных про-грамм пре-вы-ша-ет воз-мож-но-сти че-ло-ве-че-
 ско-го ин-тел-лек-та. Увы, но слож-ность,
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 36--37
+Underfull \hbox (badness 4024) in paragraph at lines 37--38
 \T2A/cmr/m/n/10 о ко-то-рой мы го-во-рим, по-видимому, при-су-ща всем боль-шим 
 про-грамм-ных си-сте-мам. Го-во-ря
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 36--37
+Underfull \hbox (badness 2065) in paragraph at lines 37--38
 \T2A/cmr/m/n/10 "присуща мы име-ем в ви-ду, что эта слож-ность здесь неиз-беж-н
 а: с ней мож-но спра-вить-ся, но
  []
@@ -853,307 +841,738 @@ Underfull \hbox (badness 2065) in paragraph at lines 36--37
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 1360) in paragraph at lines 38--39
-[]\T2A/cmr/m/n/10 Конечно, сре-ди нас все-гда есть ге-нии, ко-то-рые в оди-ноч-
-ку мо-гут вы-пол-нить ра-бо-ту груп-пы
- []
-
-
-Underfull \hbox (badness 2189) in paragraph at lines 38--39
+Underfull \hbox (badness 2189) in paragraph at lines 39--40
 \T2A/cmr/m/n/10 обычных людей-разработчиков и до-бить-ся в сво-ей об-ла-сти усп
 е-ха, срав-ни-мо-го с до-сти-же-ни-я-ми
  []
 
 
-Underfull \hbox (badness 4036) in paragraph at lines 38--39
+Underfull \hbox (badness 4036) in paragraph at lines 39--40
 \T2A/cmr/m/n/10 изобретают но-вые иди-о-мы, ме-ха-низ-мы и ос-нов-ные идеи, ис-
 поль-зу-е-мые за-тем при раз-ра-бот-ке
  []
 
 
-Underfull \hbox (badness 6675) in paragraph at lines 38--39
+Underfull \hbox (badness 6675) in paragraph at lines 39--40
 \T2A/cmr/m/n/10 промышленном про-грам-ми-ро-ва-нии нель-зя по-сто-ян-но по-ла-г
 ать-ся на бо-же-ствен-ное вдох-но-ве-ние,
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 38--39
+Underfull \hbox (badness 2617) in paragraph at lines 39--40
 \T2A/cmr/m/n/10 которое обя-за-тель-но по-мо-жет нам. По-это-му мы долж-ны рас-
 смот-реть бо-лее на-деж-ные спо-со-бы
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 38--39
+Underfull \hbox (badness 1248) in paragraph at lines 39--40
 \T2A/cmr/m/n/10 конструирования слож-ных си-стем. Для луч-ше-го по-ни-ма-ния то
 -го, чем мы со-би-ра-ем-ся управ-лять,
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 []\T2A/cmr/m/n/10 Сложность ре-аль-но-го ми-ра. Про-бле-мы, ко-то-рые мы пы-та-
 ем-ся ре-шить с по-мо-щью
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 46--47
+Underfull \hbox (badness 1831) in paragraph at lines 47--48
 \T2A/cmr/m/n/10 программного обес-пе-че-ния, ча-сто неиз-беж-но со-дер-жат слож
 -ные эле-мен-ты, а к со-от-вет-ству-ю-щим
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 \T2A/cmr/m/n/10 программам предъ-яв-ля-ет-ся мно-же-ство раз-лич-ных, по-рой вз
 а-и-мо-ис-клю-ча-ю-щих тре-бо-ва-ний.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 \T2A/cmr/m/n/10 Рассмотрим необ-хо-ди-мые ха-рак-те-ри-сти-ки элек-трон-ной си-
 сте-мы мно-го-мо-тор-но-го са-мо-ле-та,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 \T2A/cmr/m/n/10 (часто не фор-му-ли-ру-е-мые яв-но), та-кие как удоб-ство, про-
 из-во-ди-тель-ность, сто-и-мость,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 \T2A/cmr/m/n/10 выживаемость и на-деж-ность! Слож-ность за-да-чи и по-рож-да-ет
  ту слож-ность про-грамм-но-го
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 6944) in paragraph at lines 49--50
 []\T2A/cmr/m/n/10 Эта внеш-няя слож-ность обыч-но воз-ни-ка-ет из-за "несты-ков
 -ки"между поль-зо-ва-те-ля-ми
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 48--49
+Underfull \hbox (badness 5345) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 системы и ее раз-ра-бот-чи-ка-ми: поль-зо-ва-те-ли с тру-дом мо
 -гут объ-яс-нить в фор-ме, по-нят-ной
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 48--49
+Underfull \hbox (badness 2913) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 разработчикам, что на са-мом де-ле нуж-но сде-лать. Бы-ва-ют сл
 у-чаи, ко-гда поль-зо-ва-тель лишь
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 48--49
+Underfull \hbox (badness 8056) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 смутно пред-став-ля-ет, что ему нуж-но от бу-ду-щей про-грамм-н
 ой си-сте-мы. Это в ос-нов-ном
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 48--49
+Underfull \hbox (badness 1783) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 на сущ-ность про-бле-мы, и они де-ла-ют раз-лич-ные вы-во-ды о 
 воз-мож-ных пу-тях ее ре-ше-ния. На
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 зафиксировать все его тре-бо-ва-ния. Обыч-но они от-ра-же-ны на
  мно-гих стра-ни-цах тек-ста,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 "разбавленных"немногими ри-сун-ка-ми. Та-кие до-ку-мен-ты труд-
 но под-да-ют-ся по-ни-ма-нию, они
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 48--49
+Underfull \hbox (badness 6348) in paragraph at lines 49--50
 \T2A/cmr/m/n/10 открыты для раз-лич-ных ин-тер-пре-та-ций и ча-сто со-дер-жат э
 ле-мен-ты, от-но-ся-щи-е-ся ско-рее к
  []
 
 
-Underfull \hbox (badness 5711) in paragraph at lines 50--51
-[]\T2A/cmr/m/n/10 Дополнительные слож-но-сти воз-ни-ка-ют в ре-зуль-та-те из-ме
--не-ний тре-бо-ва-ний к про-грамм-ной
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 \T2A/cmr/m/n/10 осуществление про-грамм-но-го про-ек-та ча-сто из-ме-ня-ет про-
 бле-му. Рас-смот-ре-ние пер-вых
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 50--51
+Underfull \hbox (badness 1603) in paragraph at lines 51--52
 \T2A/cmr/m/n/10 результатов - схем, про-то-ти-пов, - и ис-поль-зо-ва-ние си-сте
 -мы по-сле то-го, как она раз-ра-бо-та-на и
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 50--51
+Underfull \hbox (badness 1852) in paragraph at lines 51--52
 \T2A/cmr/m/n/10 установлена, за-став-ля-ют поль-зо-ва-те-лей луч-ше по-нять и о
 т-чет-ли-вей сфор-му-ли-ро-вать то, что им
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 50--51
+Underfull \hbox (badness 2529) in paragraph at lines 51--52
 \T2A/cmr/m/n/10 действительно нуж-но. В то же вре-мя этот про-цесс по-вы-ша-ет 
 ква-ли-фи-ка-цию раз-ра-бот-чи-ков в
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 50--51
+Underfull \hbox (badness 2495) in paragraph at lines 51--52
 \T2A/cmr/m/n/10 предметной об-ла-сти и поз-во-ля-ет им за-да-вать бо-лее осмыс-
 лен-ные во-про-сы, ко-то-рые про-яс-ня-ют
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 52--56
-[]\T2A/cmr/m/n/10 Большая про-грамм-ная си-сте-ма - это круп-ное ка-пи-та-ло-вл
-о-же-ние, и мы не мо-жем поз-во-лить
- []
-
-
-Underfull \hbox (badness 3439) in paragraph at lines 52--56
+Underfull \hbox (badness 3439) in paragraph at lines 53--57
 \T2A/cmr/m/n/10 себе вы-ки-ды-вать сде-лан-ное при каж-дом из-ме-не-нии внеш-ни
 х тре-бо-ва-ний. Тем не ме-нее да-же
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 52--56
+Underfull \hbox (badness 3612) in paragraph at lines 53--57
 \T2A/cmr/m/n/10 большие си-сте-мы име-ют тен-ден-цию к эво-лю-ции в про-цес-се 
 их ис-поль-зо-ва-ния: сле-до-ва-тель-но,
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 1642) in paragraph at lines 60--61
 []\T2A/cmr/m/n/10 Трудности управ-ле-ния про-цес-сом раз-ра-бот-ки. Ос-нов-ная 
 за-да-ча раз-ра-бот-чи-ков со-сто-ит в
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 59--60
+Underfull \hbox (badness 1715) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 создании ил-лю-зии про-сто-ты, в за-щи-те поль-зо-ва-те-лей от 
 слож-но-сти опи-сы-ва-е-мо-го пред-ме-та или
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 59--60
+Underfull \hbox (badness 1024) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 процесса. Раз-мер ис-ход-ных тек-стов про-грамм-ной си-сте-мы о
 т-нюдь не вхо-дит в чис-ло ее глав-ных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 достоинств, по-это-му мы ста-ра-ем-ся де-лать ис-ход-ные тек-ст
 ы бо-лее ком-пакт-ны-ми, изоб-ре-тая
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 59--60
+Underfull \hbox (badness 3623) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 необходимости ли-бо со-зда-вать мно-го про-грамм "с ну-ля ли-бо
  пы-тать-ся по-новому ис-поль-зо-вать
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 59--60
+Underfull \hbox (badness 1173) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 существующие. Все-го 20 лет на-зад про-грам-мы объ-е-мом в неск
 оль-ко ты-сяч строк на ас-сем-бле-ре
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 59--60
+Underfull \hbox (badness 5022) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 выходили за пре-де-лы на-ших воз-мож-но-стей. Се-го-дня обыч-ны
 -ми ста-ли про-грамм-ные си-сте-мы,
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 59--60
+Underfull \hbox (badness 1303) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 размер ко-то-рых ис-чис-ля-ет-ся де-сят-ка-ми ты-сяч или да-же 
 мил-ли-о-на-ми строк на язы-ках вы-со-ко-го
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 59--60
+Underfull \hbox (badness 1509) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 уровня. Ни один че-ло-век ни-ко-гда не смо-жет пол-но-стью по-н
 ять та-кую си-сте-му. Да-же ес-ли мы
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 59--60
+Underfull \hbox (badness 1436) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 правильно раз-ло-жим ее на со-став-ные ча-сти, мы все рав-но по
 -лу-чим сот-ни, а ино-гда и ты-ся-чи
  []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 59--60
+Underfull \hbox (badness 1540) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 отдельных мо-ду-лей. По-это-му та-кой объ-ем ра-бот по-тре-бу-е
 т при-вле-че-ния ко-ман-ды раз-ра-бот-чи-ков,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 значительные труд-но-сти, свя-зан-ные с ор-га-ни-за-ци-ей кол-л
 ек-тив-ной раз-ра-бот-ки. Чем боль-ше
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 59--60
+Underfull \hbox (badness 4913) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 разработчиков, тем слож-нее свя-зи меж-ду ни-ми и тем слож-нее 
 ко-ор-ди-на-ция, осо-бен-но ес-ли
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 59--60
+Underfull \hbox (badness 2042) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 участники ра-бот гео-гра-фи-че-ски уда-ле-ны друг от дру-га, чт
 о ти-пич-но в слу-чае очень боль-ших
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 59--60
+Underfull \hbox (badness 2735) in paragraph at lines 60--61
 \T2A/cmr/m/n/10 проектов. Та-ким об-ра-зом, при кол-лек-тив-ном вы-пол-не-нии п
 ро-ек-та глав-ной за-да-чей ру-ко-вод-ства
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+\T2A/cmr/m/n/10 является под-дер-жа-ние един-ства и це-лост-но-сти раз-ра-бот-к
+и.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 []\T2A/cmr/m/n/10 Гибкость про-грамм-но-го обес-пе-че-ния. До-мо-стро-и-тель-на
 я ком-па-ния обыч-но не име-ет
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 62--64
+Underfull \hbox (badness 1748) in paragraph at lines 63--64
 \T2A/cmr/m/n/10 собственного лес-хо-за, ко-то-рый бы ей по-став-лял лес для пи-
 ло-ма-те-ри-а-лов; со-вер-шен-но необыч-но,
  []
 
-[3] [4] [5] (I:\РїСЂР°РєС‚РёРєР°\Latex\latex\latex.aux) ) 
+
+Underfull \hbox (badness 1939) in paragraph at lines 63--64
+\T2A/cmr/m/n/10 чтобы мон-таж-ная фир-ма со-ору-ди-ла свой за-вод для из-го-тов
+-ле-ния сталь-ных ба-лок под бу-ду-щее
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 63--64
+\T2A/cmr/m/n/10 здание. Од-на-ко в про-грамм-ной ин-ду-стрии та-кая прак-ти-ка 
+- де-ло обыч-ное. Про-грам-ми-ро-ва-ние
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 63--64
+\T2A/cmr/m/n/10 обладает пре-дель-ной гиб-ко-стью, и раз-ра-бот-чик мо-жет сам 
+обес-пе-чить се-бя все-ми необ-хо-ди-мы-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+\T2A/cmr/m/n/10 элементами, от-но-ся-щи-ми-ся к лю-бо-му уров-ню аб-страк-ции. 
+Та-кая гиб-кость чрез-вы-чай-но
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+\T2A/cmr/m/n/10 блоки бу-ду-щей кон-струк-ции, из ко-то-рых со-став-ля-ют-ся эл
+е-мен-ты бо-лее вы-со-ких уров-ней
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 63--64
+\T2A/cmr/m/n/10 конструктивные эле-мен-ты и ка-че-ство ма-те-ри-а-лов, в про-гр
+амм-ной ин-ду-стрии та-ких стан-дар-тов
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 65--66
+[]\T2A/cmr/m/n/10 Проблема опи-са-ния по-ве-де-ния боль-ших дис-крет-ных си-сте
+м. Ко-гда мы ки-да-ем вверх
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 мяч, мы мо-жем до-сто-вер-но пред-ска-зать его тра-ек-то-рию, п
+о-то-му что зна-ем, что в нор-маль-ных
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 изменил на-прав-ле-ние дви-же-ния [Да-же про-стые непре-рыв-ные
+ си-сте-мы мо-гут иметь слож-ное
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 будущего со-сто-я-ния си-сте-мы. На-при-мер, зная на-чаль-ное п
+о-ло-же-ние двух ка-пель во-ды в по-то-ке,
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 некоторого вре-ме-ни. Ха-ос про-яв-ля-ет-ся в та-ких раз-лич-ны
+х си-сте-мах, как ат-мо-сфер-ные про-цес-сы,
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 химические ре-ак-ции, био-ло-ги-че-ские си-сте-мы и да-же ком-п
+ью-тер-ные се-ти. К сча-стью, скры-тый
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 порядок, по-видимому, есть во всех ха-о-ти-че-ских си-сте-мах, 
+в ви-де так на-зы-ва-е-мых ат-трак-то-ров]
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 68--69
+[]\T2A/cmr/m/n/10 "Чем слож-нее си-сте-ма, тем лег-че ее пол-но-стью раз-ва-лит
+ь"[5]. Стро-и-тель ед-ва ли
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 68--69
+\T2A/cmr/m/n/10 согласится рас-ши-рить фун-да-мент уже по-стро-ен-но-го 100-эта
+жного зда-ния. Это не про-сто до-ро-го:
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 68--69
+\T2A/cmr/m/n/10 делать та-кие ве-щи зна-чит на-пра-ши-вать-ся на непри-ят-но-ст
+и. Но что уди-ви-тель-но, поль-зо-ва-те-ли
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 68--69
+\T2A/cmr/m/n/10 программных си-стем, не за-ду-мы-ва-ясь, ста-вят по-доб-ные за-
+да-чи пе-ред раз-ра-бот-чи-ка-ми. Это,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+[]\T2A/cmr/m/n/10 Наше неуме-ние со-зда-вать слож-ные про-грамм-ные си-сте-мы п
+ро-яв-ля-ет-ся в про-ек-тах,
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 которые вы-хо-дят за рам-ки уста-нов-лен-ных сро-ков и бюд-же-т
+ов и к то-му же не со-от-вет-ству-ют
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 говоря, недо-мо-га-ние, ко-то-рое тя-нет-ся так дол-го, ста-но-
+вит-ся нор-мой. К со-жа-ле-нию, этот кри-зис
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 приводит к раз-ба-за-ри-ва-нию че-ло-ве-че-ских ре-сур-сов - са
+-мо-го дра-го-цен-но-го то-ва-ра - и к
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 существенному огра-ни-че-нию воз-мож-но-стей со-зда-ния но-вых 
+про-дук-тов. Сей-час про-сто не хва-та-ет
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 хороших про-грам-ми-стов, что-бы обес-пе-чить всех поль-зо-ва-т
+е-лей нуж-ны-ми про-грам-ма-ми. Бо-лее
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 того, су-ще-ствен-ный про-цент пер-со-на-ла, за-ня-то-го раз-ра
+-бот-ка-ми, в лю-бой ор-га-ни-за-ции ча-сто
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 должен за-ни-мать-ся со-про-вож-де-ни-ем и со-хра-не-ни-ем уста
+-рев-ших про-грамм. С уче-том пря-мо-го и
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 70--71
+\T2A/cmr/m/n/10 косвенного вкла-да ин-ду-стрии про-грамм-но-го обес-пе-че-ния в
+ раз-ви-тие эко-но-ми-ки боль-шин-ства
+ []
+
+[3]
+Underfull \hbox (badness 3219) in paragraph at lines 72--73
+[]\T2A/cmr/m/n/10 Как мы мо-жем из-ме-нить по-ло-же-ние дел? Так как про-бле-ма
+ воз-ни-ка-ет в ре-зуль-та-те
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 72--73
+\T2A/cmr/m/n/10 сложности струк-ту-ры про-грамм-ных про-дук-тов, мы пред-ла-га-
+ем сна-ча-ла рас-смот-реть спо-со-бы
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 72--73
+\T2A/cmr/m/n/10 примеров успеш-но функ-ци-о-ни-ру-ю-щих слож-ных си-стем. Неко-
+то-рые из них со-зда-ны че-ло-ве-ком,
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 72--73
+\T2A/cmr/m/n/10 например: кос-ми-че-ский чел-нок Space Shuttle, тун-нель под Ла
+-Маншем, боль-шие фир-мы ти-па
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 72--73
+\T2A/cmr/m/n/10 Microsoft или General Electric. В при-ро-де су-ще-ству-ют еще б
+о-лее слож-ные си-сте-мы, на-при-мер
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]\T2A/cmr/m/n/10 Структура пер-со-наль-но-го ком-пью-те-ра. Пер-со-наль-ный ко
+м-пью-тер (ПК) - при-бор
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 76--77
+\T2A/cmr/m/n/10 умеренной слож-но-сти. Боль-шин-ство ПК со-сто-ит из од-них и т
+ех же ос-нов-ных эле-мен-тов:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\T2A/cmr/m/n/10 составляющие. Си-стем-ная пла-та, на-при-мер, со-дер-жит опе-ра
+-тив-ную па-мять, цен-траль-ный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\T2A/cmr/m/n/10 Это при-мер слож-ной иерар-хи-че-ской си-сте-мы. Пер-со-наль-
+ный ком-пью-тер нор-маль-но
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 78--79
+\T2A/cmr/m/n/10 работает бла-го-да-ря чет-ко-му сов-мест-но-му функ-ци-о-ни-ро-
+ва-нию всех его со-став-ных ча-стей. Вме-сте
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 78--79
+\T2A/cmr/m/n/10 что мо-жем рас-смат-ри-вать от-дель-но каж-дую его со-став-ля-ю
+-щую. Та-ким об-ра-зом, мож-но изу-чать
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 78--79
+\T2A/cmr/m/n/10 устройства мо-ни-то-ра и жест-ко-го дис-ка неза-ви-си-мо друг о
+т дру-га. Ана-ло-гич-но мож-но изу-чать
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 80--81
+\T2A/cmr/m/n/10 иерархии пред-став-ля-ют раз-лич-ные уров-ни аб-страк-ции, при-
+чем один над-стро-ен над дру-гим и
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 80--81
+\T2A/cmr/m/n/10 каждый мо-жет быть рас-смот-рен (по-нят) от-дель-но. На каж-дом
+ уровне аб-страк-ции мы на-хо-дим
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 80--81
+\T2A/cmr/m/n/10 набор устройств, ко-то-рые сов-мест-но обес-пе-чи-ва-ют неко-то
+-рые функ-ции бо-лее вы-со-ко-го уров-ня, и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\T2A/cmr/m/n/10 исследовать про-бле-му син-хро-ни-за-ции об-ра-ще-ний к па-мя-т
+и, мож-но оста-вать-ся на уровне
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+[]\T2A/cmr/m/n/10 Структура рас-те-ний и жи-вот-ных. Бо-та-ник пы-та-ет-ся по-н
+ять сход-ство и раз-ли-чия
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 82--83
+\T2A/cmr/m/n/10 растений, изу-чая их мор-фо-ло-гию, то есть фор-му и струк-ту-р
+у. Рас-те-ния - это слож-ные
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 82--83
+\T2A/cmr/m/n/10 многоклеточные ор-га-низ-мы. В ре-зуль-та-те сов-мест-ной де-я-
+тель-но-сти раз-лич-ных ор-га-нов рас-те-ний
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 84--85
+\T2A/cmr/m/n/10 свою осо-бую струк-ту-ру. Ко-рень, на-при-мер, со-сто-ит из кор
+-не-вых от-рост-ков, кор-не-вых во-лос-ков,
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 84--85
+\T2A/cmr/m/n/10 как у ком-пью-те-ра, ча-сти рас-те-ния об-ра-зу-ют иерар-хию, к
+аж-дый уро-вень ко-то-рой об-ла-да-ет
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 86--87
+[]\T2A/cmr/m/n/10 Все ча-сти на од-ном уровне аб-страк-ции вза-и-мо-дей-ству-ют
+ вполне опре-де-лен-ным об-ра-зом.
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 86--87
+\T2A/cmr/m/n/10 Например, на выс-шем уровне аб-страк-ции, кор-ни от-ве-ча-ют за
+ по-гло-ще-ние из поч-вы во-ды и
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 86--87
+\T2A/cmr/m/n/10 минеральных ве-ществ. Кор-ни вза-и-мо-дей-ству-ют со стеб-ля-ми
+, ко-то-рые пе-ре-да-ют эти ве-ще-ства
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 86--87
+\T2A/cmr/m/n/10 листьям. Ли-стья в свою оче-редь ис-поль-зу-ют во-ду и ми-не-ра
+ль-ные ве-ще-ства, до-став-ля-е-мые
+ []
+
+[4]
+Underfull \hbox (badness 3439) in paragraph at lines 88--89
+[]\T2A/cmr/m/n/10 Для каж-до-го уров-ня аб-страк-ции все-гда чет-ко раз-гра-ни-
+че-но "внеш-нее"и "внут-рен-нее".
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 88--89
+\T2A/cmr/m/n/10 Например, мож-но уста-но-вить, что ча-сти ли-ста сов-мест-но об
+ес-пе-чи-ва-ют функ-ци-о-ни-ро-ва-ние ли-ста
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 88--89
+\T2A/cmr/m/n/10 в це-лом и очень сла-бо вза-и-мо-дей-ству-ют или во-об-ще пря-м
+о не вза-и-мо-дей-ству-ют с эле-мен-та-ми
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 90--91
+[]\T2A/cmr/m/n/10 В ком-пью-те-ре тран-зи-сто-ры ис-поль-зу-ют-ся как в схе-ме 
+ЦП, так и жест-ко-го дис-ка.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T2A/cmr/m/n/10 Аналогично это-му боль-шое чис-ло "уни-фи-ци-ро-ван-ных эле-мен
+-тов"имеется во всех ча-стях
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 90--91
+\T2A/cmr/m/n/10 растения. Так Со-зда-тель до-сти-гал эко-но-мии средств вы-ра-ж
+е-ния. На-при-мер, клет-ки слу-жат
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 90--91
+\T2A/cmr/m/n/10 основными стро-и-тель-ны-ми бло-ка-ми всех струк-тур рас-те-ния
+; кор-ни, стеб-ли и ли-стья рас-те-ния
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 90--91
+\T2A/cmr/m/n/10 состоят из кле-ток. И хо-тя лю-бой из этих ис-ход-ных эле-мен-т
+ов дей-стви-тель-но яв-ля-ет-ся клет-кой,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\T2A/cmr/m/n/10 существует огром-ное ко-ли-че-ство раз-но-об-раз-ных кле-ток. Е
+сть клет-ки, со-дер-жа-щие и не
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 90--91
+\T2A/cmr/m/n/10 содержащие хло-ро-пласт, клет-ки с обо-лоч-кой, про-ни-ца-е-мой
+ и непро-ни-ца-е-мой для во-ды, и да-же
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\T2A/cmr/m/n/10 за от-дель-ные фа-зы еди-но-го про-цес-са, на-при-мер, фо-то-си
+н-те-за. Фак-ти-че-ски не су-ще-ству-ет
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 92--93
+\T2A/cmr/m/n/10 централизованных ча-стей, ко-то-рые непо-сред-ствен-но ко-ор-ди
+-ни-ру-ют де-я-тель-ность бо-лее низ-ких
+ []
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 92--93
+\T2A/cmr/m/n/10 уровней. Вме-сто это-го мы на-хо-дим от-дель-ные ча-сти, ко-то-
+рые дей-ству-ют как неза-ви-си-мые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\T2A/cmr/m/n/10 высокими уров-ня-ми. Толь-ко бла-го-да-ря сов-мест-ным дей-стви
+-ям боль-шо-го чис-ла по-сред-ни-ков
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 94--95
+\T2A/cmr/m/n/10 структуру: клет-ки фор-ми-ру-ют тка-ни, тка-ни ра-бо-та-ют вме-
+сте как ор-га-ны, груп-пы ор-га-нов
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 94--95
+\T2A/cmr/m/n/10 определяют си-сте-му (на-при-мер, пи-ще-ва-ри-тель-ную) и так д
+а-лее. Мы сно-ва вы-нуж-де-ны от-ме-тить
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 94--95
+\T2A/cmr/m/n/10 присущую Со-зда-те-лю эко-ном-ность вы-ра-же-ния: ос-нов-ной ст
+ро-и-тель-ный блок всех рас-те-ний и
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 94--95
+\T2A/cmr/m/n/10 животных - клет-ка. Есте-ствен-но, меж-ду клет-ка-ми рас-те-ний
+ и жи-вот-ных су-ще-ству-ют раз-ли-чия.
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 94--95
+\T2A/cmr/m/n/10 Клетки рас-те-ния, на-при-мер, за-клю-че-ны в жест-кую цел-лю-л
+оз-ную обо-лоч-ку в от-ли-чие от кле-ток
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 94--95
+\T2A/cmr/m/n/10 животных. Но, несмот-ря на эти раз-ли-чия, обе ука-зан-ные стру
+к-ту-ры, несо-мнен-но, яв-ля-ют-ся
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 96--97
+\T2A/cmr/m/n/10 уровня, то есть бо-лее вы-со-ко-го уров-ня аб-страк-ции. И рас-
+те-ния, и жи-вот-ные ис-поль-зу-ют
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 96--97
+\T2A/cmr/m/n/10 сосудистую си-сте-му для транс-пор-ти-ров-ки внут-ри ор-га-низ-
+ма пи-та-тель-ных ве-ществ. И у тех, и у
+ []
+
+[5] [6] (I:\РїСЂР°РєС‚РёРєР°\Latex\latex\latex.aux) ) 
 Here is how much of TeX's memory you used:
  3058 strings out of 493921
  36504 string characters out of 3144868
- 105573 words of memory out of 3000000
+ 96573 words of memory out of 3000000
  6292 multiletter control sequences out of 15000+200000
  17090 words of font info for 54 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,26p,3281b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\MARISHKA\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users\
-MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk>
- <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\l
-abx1440.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
-2a\dpi600\larm0900.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\lh\lh-t2a\dpi600\labx1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb>
-Output written on latex.pdf (5 pages, 111564 bytes).
+ 27i,5n,26p,3292b,202s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\MARISHKA\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users\MARI
+SHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:
+\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1
+440.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
+pi600\larm0900.pk> <C:\Users\MARISHKA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+lh\lh-t2a\dpi600\labx1728.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on latex.pdf (6 pages, 112220 bytes).
 PDF statistics:
- 282 PDF objects out of 1000 (max. 8388607)
+ 285 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
